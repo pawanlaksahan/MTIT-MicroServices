@@ -242,11 +242,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Joshua Amarasinghe\\Desktop\\MTIT-MicroServices-customer\\MTIT-MicroServices-Content\\Sliit.MTIT.Content\\Sliit.MTIT.Content.csproj",
+      "projectUniqueName": "E:\\01. SLIIT\\4th Year 1st Semester\\1. Modern Topics in IT - IT4020\\MTIT-032-Assignment-2\\MTIT-MicroServices\\MTIT-MicroServices-Content\\Sliit.MTIT.Content\\Sliit.MTIT.Content.csproj",
       "projectName": "Sliit.MTIT.Content",
-      "projectPath": "C:\\Users\\Joshua Amarasinghe\\Desktop\\MTIT-MicroServices-customer\\MTIT-MicroServices-Content\\Sliit.MTIT.Content\\Sliit.MTIT.Content.csproj",
+      "projectPath": "E:\\01. SLIIT\\4th Year 1st Semester\\1. Modern Topics in IT - IT4020\\MTIT-032-Assignment-2\\MTIT-MicroServices\\MTIT-MicroServices-Content\\Sliit.MTIT.Content\\Sliit.MTIT.Content.csproj",
       "packagesPath": "C:\\Users\\Joshua Amarasinghe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Joshua Amarasinghe\\Desktop\\MTIT-MicroServices-customer\\MTIT-MicroServices-Content\\Sliit.MTIT.Content\\obj\\",
+      "outputPath": "E:\\01. SLIIT\\4th Year 1st Semester\\1. Modern Topics in IT - IT4020\\MTIT-032-Assignment-2\\MTIT-MicroServices\\MTIT-MicroServices-Content\\Sliit.MTIT.Content\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
