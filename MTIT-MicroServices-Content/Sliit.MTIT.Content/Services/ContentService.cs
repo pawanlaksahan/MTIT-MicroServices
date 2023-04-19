@@ -26,9 +26,11 @@ namespace Sliit.MTIT.Content.Services
             Models.Content selectedContent = ContentMockDataService.Contents.FirstOrDefault(x => x.Id == content.Id);
             if (selectedContent != null)
             {
-                selectedContent.Address = content.Address;
-                selectedContent.Age = content.Age;
-                selectedContent.Name = content.Name;
+                selectedContent.Broadcast = content.Broadcast;
+                selectedContent.Country = content.Country;
+                selectedContent.ProviderName = content.ProviderName;
+                selectedContent.Description = content.Description;
+                selectedContent.Result = content.Result;
                 return selectedContent;
             }
 

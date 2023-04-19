@@ -5,11 +5,11 @@
 
         public static List<Models.Content> Contents = new List<Models.Content>()
         {
-            new Models.Content { Id = 1, Name = "John", Address = "123 Main St", Age = 20 },
-            new Models.Content { Id = 2, Name = "Mary", Address = "456 Second Ave", Age = 22 },
-            new Models.Content { Id = 3, Name = "Tom", Address = "789 Third St", Age = 21 },
-            new Models.Content { Id = 4, Name = "Kate", Address = "321 Fourth Ave", Age = 23 },
-            new Models.Content { Id = 5, Name = "Mike", Address = "654 Fifth St", Age = 19 }
+            new Models.Content { Id = 1, ProviderName = "John", Broadcast = "123 Main St", Country = "20", Description = "20", Result = "20" },
+            new Models.Content { Id = 2, ProviderName = "Mary", Broadcast = "456 Second Ave", Country = "22", Description = "20", Result = "20"  },
+            new Models.Content { Id = 3, ProviderName = "Tom", Broadcast = "789 Third St", Country = "21" , Description = "20", Result = "20" },
+            new Models.Content { Id = 4, ProviderName = "Kate", Broadcast = "321 Fourth Ave", Country = "23", Description = "20", Result = "20"  },
+            new Models.Content { Id = 5, ProviderName = "Mike", Broadcast = "654 Fifth St", Country = "19", Description = "20", Result = "20"  }
         };
 
     }
