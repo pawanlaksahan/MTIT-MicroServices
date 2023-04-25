@@ -1,0 +1,7 @@
+E:\01. SLIIT\4th Year 1st Semester\1. Modern Topics in IT - IT4020\Assignment 3\Sliit.MTIT.Event\obj\Debug\net6.0\Sliit.MTIT.Event.csproj.AssemblyReference.cache
+E:\01. SLIIT\4th Year 1st Semester\1. Modern Topics in IT - IT4020\Assignment 3\Sliit.MTIT.Event\obj\Debug\net6.0\Sliit.MTIT.Event.GeneratedMSBuildEditorConfig.editorconfig
+E:\01. SLIIT\4th Year 1st Semester\1. Modern Topics in IT - IT4020\Assignment 3\Sliit.MTIT.Event\obj\Debug\net6.0\Sliit.MTIT.Event.AssemblyInfoInputs.cache
+E:\01. SLIIT\4th Year 1st Semester\1. Modern Topics in IT - IT4020\Assignment 3\Sliit.MTIT.Event\obj\Debug\net6.0\Sliit.MTIT.Event.AssemblyInfo.cs
+E:\01. SLIIT\4th Year 1st Semester\1. Modern Topics in IT - IT4020\Assignment 3\Sliit.MTIT.Event\obj\Debug\net6.0\Sliit.MTIT.Event.csproj.CoreCompileInputs.cache
+E:\01. SLIIT\4th Year 1st Semester\1. Modern Topics in IT - IT4020\Assignment 3\Sliit.MTIT.Event\obj\Debug\net6.0\Sliit.MTIT.Event.MvcApplicationPartsAssemblyInfo.cs
+E:\01. SLIIT\4th Year 1st Semester\1. Modern Topics in IT - IT4020\Assignment 3\Sliit.MTIT.Event\obj\Debug\net6.0\Sliit.MTIT.Event.MvcApplicationPartsAssemblyInfo.cache
