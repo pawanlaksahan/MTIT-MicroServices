@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Microservices", "Microservices", "{7435B2C2-7E91-4D86-91A5-3749AB8C79B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sliit.MTIT.Payment", "Sliit.MTIT.Payment\Sliit.MTIT.Payment.csproj", "{FA561028-D548-416E-AB12-8419381E6095}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sliit.MTIT.Ocelot", "Sliit.MTIT.Ocelot\Sliit.MTIT.Ocelot.csproj", "{0413F588-344E-4B11-860F-A44152967E83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA561028-D548-416E-AB12-8419381E6095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA561028-D548-416E-AB12-8419381E6095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA561028-D548-416E-AB12-8419381E6095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA561028-D548-416E-AB12-8419381E6095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0413F588-344E-4B11-860F-A44152967E83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0413F588-344E-4B11-860F-A44152967E83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0413F588-344E-4B11-860F-A44152967E83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0413F588-344E-4B11-860F-A44152967E83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FA561028-D548-416E-AB12-8419381E6095} = {7435B2C2-7E91-4D86-91A5-3749AB8C79B8}
+		{0413F588-344E-4B11-860F-A44152967E83} = {7435B2C2-7E91-4D86-91A5-3749AB8C79B8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {779C4E52-A2FA-42EC-8F84-8D1E3993390F}
+	EndGlobalSection
+EndGlobal
